@@ -1,29 +1,32 @@
-Add in the workshop image here using the referential link at the bottom of the README file
+![Tool Logo](Github_Part3.png)
 
-![Tool Logo](Image filename)
+#3 Making a Free Webpage with GitHub Pages
+In this workshop, attendees will learn how to host free webpages on GitHub.  The process to make a basic, single page site is surprisingly easy and provides an excellent alternative to paid hosting options as not only is it free, but it allows for full control over the site at all times and it will exist forever!  This workshop is the third in the GitHub Workshop Series offered by the Brock University Digital Scholarship Lab.
 
+A basic understanding of using repositories in GitHub is recommended for this workshop.
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process
+## Setup
+In preparation for this workshop, you will need the following: 
 
-## Setup Instructions
-In preparation for this workshop, you will need...
-
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
-
-For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
+- A GitHub account which you can get by clicking the "Sign Up" button at the top right of [https://github.com/](https://github.com/).
+- A GitHub repository that you will use to build a GitHub pages site.  A new repository with just a README.md file will work fine.
+- An image file (jpg or png work best) to add to your site.
 
 ## Helpful Materials
-Add in any helpful resources, code snippets, cheat sheets, or other relevant information here.
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/): This is a helpful cheat sheet showing the common Markdown syntax.  Excellent for experienced users and beginners alike!
 
-## Follow Up Material
-Add in names of books, links to websites, or any other reccomendations for follow up materials that could represent the "Next Step" in an attendees learning after the workshop.  helpful links like the Programming Historians or W3Schools are good examples.
 
- 
- 
+## Next Steps
+
+After completing this workshop, the recommended next steps are:
+
+ - Try making another site from scratch.  Practicing the steps and getting more comfortable with Markdown will help keep the knowledge gained in the workshop from fading away!
+ - Check out [Hugo](https://gohugo.io/) and [Jekyll](https://jekyllrb.com/) to learn more about more advanced theme options.
+ - Consider attending the "Automating tasks with GitHub Actions" workshop which is next in The GitHub Workshop Series.  
+
+
+
+----
  
 
   
