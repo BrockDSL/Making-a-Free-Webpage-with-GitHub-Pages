@@ -1,6 +1,6 @@
 ![Tool Logo](Github_Part3.png)
 
-#3 Making a Free Webpage with GitHub Pages
+# Making a Free Webpage with GitHub Pages
 In this workshop, attendees will learn how to host free webpages on GitHub.  The process to make a basic, single page site is surprisingly easy and provides an excellent alternative to paid hosting options as not only is it free, but it allows for full control over the site at all times and it will exist forever!  This workshop is the third in the GitHub Workshop Series offered by the Brock University Digital Scholarship Lab.
 
 A basic understanding of using repositories in GitHub is recommended for this workshop.
