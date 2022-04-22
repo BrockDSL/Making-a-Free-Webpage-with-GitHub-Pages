@@ -3,18 +3,23 @@
 # Making a Free Webpage with GitHub Pages
 In this workshop, attendees will learn how to host free webpages on GitHub.  The process to make a basic, single page site is surprisingly easy and provides an excellent alternative to paid hosting options as not only is it free, but it allows for full control over the site at all times and it will exist forever!  This workshop is the third in the GitHub Workshop Series offered by the Brock University Digital Scholarship Lab.
 
-A basic understanding of using repositories in GitHub is recommended for this workshop.
+A basic understanding of using repositories in GitHub is recommended for this workshop.  
+
+----
 
 ## Setup
 In preparation for this workshop, you will need the following: 
 
 - A GitHub account which you can get by clicking the "Sign Up" button at the top right of [https://github.com/](https://github.com/).
 - A GitHub repository that you will use to build a GitHub pages site.  A new repository with just a README.md file will work fine.
-- An image file (jpg or png work best) to add to your site.
+- An image file (jpg or png work best) to add to your site.  
+
+----
 
 ## Helpful Materials
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/): This is a helpful cheat sheet showing the common Markdown syntax.  Excellent for experienced users and beginners alike!
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/): This is a helpful cheat sheet showing the common Markdown syntax.  Excellent for experienced users and beginners alike!  
 
+----
 
 ## Next Steps
 
