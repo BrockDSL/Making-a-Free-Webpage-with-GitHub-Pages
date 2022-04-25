@@ -5,6 +5,8 @@ In this workshop, attendees will learn how to host free webpages on GitHub.  The
 
 A basic understanding of using repositories in GitHub is recommended for this workshop.  
 
+*Estimated workshop length: 1.5 hours*
+
 ----
 
 ## Setup
