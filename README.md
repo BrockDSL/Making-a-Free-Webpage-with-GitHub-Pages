@@ -29,7 +29,11 @@ After completing this workshop, the recommended next steps are:
 
  - Try making another site from scratch.  Practicing the steps and getting more comfortable with Markdown will help keep the knowledge gained in the workshop from fading away!
  - Check out [Hugo](https://gohugo.io/) and [Jekyll](https://jekyllrb.com/) to learn more about more advanced theme options.
- - Consider attending the "Automating tasks with GitHub Actions" workshop which is next in The GitHub Workshop Series.  
+ - Check out the other workshops in our introduction to GitHub Series
+   - [Introduction to GitHub Repositories and GitHub Desktop](https://brockdsl.github.io/Introduction-to-GitHub-Repositories-and-GitHub-Desktop/)
+   - [Collaborating with Version Control on GitHub](https://brockdsl.github.io/Collaborating-with-Version-Control-on-GitHub/)
+   - [Automating tasks with GitHub Actions](https://brockdsl.github.io/Automating-tasks-with-GitHub-Actions/)
+  
 
 
 
