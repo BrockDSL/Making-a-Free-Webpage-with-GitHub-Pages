@@ -36,13 +36,19 @@ In preparation for this workshop, you will need the following:
   
 **Task Set 2**  
   
-1. Navigate to your repositories settings using the “Settings” tab and then click on “Pages” in the menu on the left
-2. Choose a theme for your site by clicking on the “Change theme” button, picking the theme you want, and then clicking the green ”Select theme” button at the top right of the page
-3. Set the source for your site to the “main” branch from the dropdown menu and the click “Save” to start building you site.
-4. Wait a couple minutes then click the link to see your new webpage!  Feel free to share the link to your page in the chat for others to see!
-5. Once you have admired your site, type “SITE CREATED!!!!” in the chat to let me know you are ready to move on
-  
-BONUS! Try making another Markdown file and making a link to and from your main page and that new page
+1. Go to the branches section of your repository and create a new branch  
+2. Navigate to your new branch using the branch dropdown on the main page of your repository  
+3. Make a change to a file on the new branch and commit that change (just changing the README is fine)  
+4. Create a pull request from your new branch to your main branch and merge them (up to you if you want to delete the new branch)  
+5. Once you have done this, type “BRANCH MERGED!!!!” in the chat to let me know you are ready to move on  
+
+**Task Set 3**
+
+1- Navigate to your repositories settings using the “Settings” tab and then click on “Pages” in the menu on the left  
+2- Choose a theme for your site by clicking on the “Change theme” button, picking the theme you want, and then clicking the green ”Select theme” button at the top right of the page  
+3- Edit the new index.md file by replacing the default text with your own and commit the changes  
+4- Wait a couple minutes then click the link (in settings under pages) to see your new webpage!  Feel free to share the link to your page in the chat for others to see!  
+5- Once you have admired your site, type “SITE CREATED!!!!” in the chat to let me know you are ready to move on  
   
 
 ----  
