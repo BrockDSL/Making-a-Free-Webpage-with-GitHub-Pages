@@ -1,0 +1,3 @@
+In this workshop, attendees will learn how to host free webpages on GitHub. The process to make a basic, single page site is surprisingly easy and provides an excellent alternative to paid hosting options as not only is it free, but it allows for full control over the site at all times and it will exist forever!
+
+A basic understanding of using repositories in GitHub is recommended for this workshop.
