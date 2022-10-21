@@ -44,11 +44,11 @@ In preparation for this workshop, you will need the following:
 
 **Task Set 3**
 
-1- Navigate to your repositories settings using the “Settings” tab and then click on “Pages” in the menu on the left  
-2- Choose a theme for your site by clicking on the “Change theme” button, picking the theme you want, and then clicking the green ”Select theme” button at the top right of the page  
-3- Edit the new index.md file by replacing the default text with your own and commit the changes  
-4- Wait a couple minutes then click the link (in settings under pages) to see your new webpage!  Feel free to share the link to your page in the chat for others to see!  
-5- Once you have admired your site, type “SITE CREATED!!!!” in the chat to let me know you are ready to move on  
+1. Navigate to your repositories settings using the “Settings” tab and then click on “Pages” in the menu on the left  
+2. Choose a theme for your site by clicking on the “Change theme” button, picking the theme you want, and then clicking the green ”Select theme” button at the top right of the page  
+3. Edit the new index.md file by replacing the default text with your own and commit the changes  
+4. Wait a couple minutes then click the link (in settings under pages) to see your new webpage!  Feel free to share the link to your page in the chat for others to see!  
+5. Once you have admired your site, type “SITE CREATED!!!!” in the chat to let me know you are ready to move on  
   
 
 ----  
