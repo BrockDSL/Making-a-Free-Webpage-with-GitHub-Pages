@@ -42,15 +42,16 @@ In preparation for this workshop, you will need the following:
 4. Create a pull request from your new branch to your main branch and merge them (up to you if you want to delete the new branch)  
 5. Once you have done this, type “BRANCH MERGED!!!!” in the chat to let me know you are ready to move on  
 
-**Task Set 3**
-
-1. Navigate to your repositories settings using the “Settings” tab and then click on “Pages” in the menu on the left  
-2. Choose a theme for your site by clicking on the “Change theme” button, picking the theme you want, and then clicking the green ”Select theme” button at the top right of the page  
-3. Edit the new index.md file by replacing the default text with your own and commit the changes  
-4. Wait a couple minutes then click the link (in settings under pages) to see your new webpage!  Feel free to share the link to your page in the chat for others to see!  
-5. Once you have admired your site, type “SITE CREATED!!!!” in the chat to let me know you are ready to move on  
+**Task Set 3**  
   
-
+1. Decide if you want to use your main branch or a new branch as the home for your site.  If making a new branch, consider naming it gh-pages to have GitHub automatically deploy your site.  Once you have decided, go to your repositories settings by clicking the “Settings” tab at the top of your repository and then go to the “Pages” section found in the menu on the left.  If your site is not deployed yet, select the branch you want to use to host your site and then click the save button.  
+2. Once your site is deployed, go check it out at the URL hown in the Pages section of the repositories settings.  
+3. Return to your repository and create a new file called _config.yml.  Navigate to https://pages.github.com/themes/ and choose a theme to try out.  Copy the configuration code into your config file and then commit your changes.  
+4. Once your new changes have deployed (this can be watched in the “Actions” tab of the repository) go to your site and check it out!  
+5. Once you have admired your site, type “SITE CREATED!!!!” in the chat to let me know you are ready to move on.  
+6. (Optional) Share the link to your site in the chat so others can see it!  
+  
+  
 ----  
 
 ## Next Steps
