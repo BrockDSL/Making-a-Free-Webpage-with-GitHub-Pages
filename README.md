@@ -45,7 +45,7 @@ In preparation for this workshop, you will need the following:
 **Task Set 3**  
   
 1. Decide if you want to use your main branch or a new branch as the home for your site.  If making a new branch, consider naming it gh-pages to have GitHub automatically deploy your site.  Once you have decided, go to your repositories settings by clicking the “Settings” tab at the top of your repository and then go to the “Pages” section found in the menu on the left.  If your site is not deployed yet, select the branch you want to use to host your site and then click the save button.  
-2. Once your site is deployed, go check it out at the URL hown in the Pages section of the repositories settings.  
+2. Once your site is deployed, go check it out at the URL shown in the Pages section of the repositories settings.  
 3. Return to your repository and create a new file called _config.yml.  Navigate to https://pages.github.com/themes/ and choose a theme to try out.  Copy the configuration code into your config file and then commit your changes.  
 4. Once your new changes have deployed (this can be watched in the “Actions” tab of the repository) go to your site and check it out!  
 5. Once you have admired your site, type “SITE CREATED!!!!” in the chat to let me know you are ready to move on.  
